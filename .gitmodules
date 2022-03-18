@@ -1,0 +1,3 @@
+[submodule "CCSaveEdit"]
+	path = CCSaveEdit
+	url = git@github.com:rarspace01/CCSaveEdit.git
